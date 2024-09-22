@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="orange">FFB344</color>      <!-- adicionei esta cor laranja para poder usar -->
+    <color name="pink">FB28B</color>         <!-- adicionei esta cor rosa para poder usar -->
+    <color name="pink_light">F899B9</color>  <!-- adicionei este tom de rosa para poder usar -->
+</resources>
